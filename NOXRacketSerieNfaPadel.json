@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "NOX",
+    "model": "Future Attack 12K Alum",
+    "price": "269,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/future-attack-12k-alum-pfutatt25-8435778900689-156979.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-nfa-padel/products/racket-future-attack-12k-alum",
+    "weight": "",
+    "shape": "",
+    "material": "",
+    "series": "SerieNfaPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "Future Hybrid 12K Alum",
+    "price": "269,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/future-hybrid-12k-alum-pfuthyb25-8435778900696-283447.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-nfa-padel/products/racket-future-hybrid-12k-alum",
+    "weight": "",
+    "shape": "",
+    "material": "",
+    "series": "SerieNfaPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "Future Control 12K Alum",
+    "price": "269,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/future-control-12k-alum-pfutcon25-8435778900702-226169.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-nfa-padel/products/racket-future-control-12k-alum",
+    "weight": "",
+    "shape": "",
+    "material": "",
+    "series": "SerieNfaPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "NextGen Pro Attack 3K",
+    "price": "50,04 €149,95 €199,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/nextgen-pro-attack-3k-pnfangatt-8435778900597-570251.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-nfa-padel/products/racket-nextgen-pro-attack-3k-nfa-series",
+    "weight": "360-375G",
+    "shape": "Diamond",
+    "material": "",
+    "series": "SerieNfaPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "NextGen Pro Hybrid 3K",
+    "price": "50,04 €149,95 €199,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/nextgen-pro-hybrid-3k-pnfanghyb-8435778900603-968018.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-nfa-padel/products/racket-nextgen-pro-hybrid-3k-nfa-series",
+    "weight": "360-375G",
+    "shape": "",
+    "material": "",
+    "series": "SerieNfaPadel"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "NOX",
+    "model": "AT Luxury BLUE 18K by Agustín Tapia",
+    "price": "175,05 €149,95 €325,00 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/products/at-luxury-blue-18k-pexatblue18k-8436603195799-321815.jpg",
+    "racketPage": "https://noxsport.com/en/collections/series-exclusive-edition-padel/products/at-luxury-blue-18k",
+    "weight": "",
+    "shape": "",
+    "material": "",
+    "series": "SeriesExclusiveEditionPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury GOLD L.5 by Agustín Tapia",
+    "price": "140,00 €139,95 €279,95 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-gold-l5-la-pala-de-agustin-tapia-pexat10luxl5-8436603199834-588714.jpg",
+    "racketPage": "https://noxsport.com/en/collections/series-exclusive-edition-padel/products/pala-at10-luxury-gold-l5-nox",
+    "weight": "360-375g",
+    "shape": "Round",
+    "material": "Fiber Glass 3K",
+    "series": "SeriesExclusiveEditionPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius 18K Alum Buenos Aires Limited Edition",
+    "price": "99,96 €299,99 €399,95 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-18k-alum-buenos-aires-limited-edition-packpatorbap1-8435778902317-736233.png",
+    "racketPage": "https://noxsport.com/en/collections/series-exclusive-edition-padel/products/pack-at10-genius-buenos-aires-edicion-limitada",
+    "weight": "360-375g",
+    "shape": "Drop/Tear",
+    "material": "the 3D hexagonal finish located in the center of the blade and the sand finish on the rest.",
+    "series": "SeriesExclusiveEditionPadel"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Genius Paraguay Limited Edition",
+    "price": "99,96 €299,99 €399,95 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-genius-paraguay-edicion-limitada-packpatorpp2-733926.png",
+    "racketPage": "https://noxsport.com/en/collections/series-exclusive-edition-padel/products/at10-genius-paraguay-edicion-limitada",
+    "weight": "360-375g",
+    "shape": "Drop/Tear",
+    "material": "the 3D hexagonal finish located in the center of the blade and the sand finish on the rest.",
+    "series": "SeriesExclusiveEditionPadel"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "brand": "NOX",
+    "model": "X-Hero Blue",
+    "price": "64,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/x-hero-blue-pxherobl-8435778902782-7907333.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-essential/products/pala-x-hero-blue",
+    "weight": "350-360g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieEssential"
+  },
+  {
+    "brand": "NOX",
+    "model": "X-Hero Red",
+    "price": "64,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/x-hero-red-pxherore-8435778902775-2574089.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-essential/products/pala-x-hero-red",
+    "weight": "350-360g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieEssential"
+  },
+  {
+    "brand": "NOX",
+    "model": "X-Hero White",
+    "price": "64,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/x-hero-white-pxherowh-8435778902768-3752679.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-essential/products/pala-x-hero-white",
+    "weight": "350-360g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieEssential"
+  },
+  {
+    "brand": "NOX",
+    "model": "X-Zero Blue",
+    "price": "64,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/x-zero-blue-pxzerobl-8435778902805-2398089.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-essential/products/pala-x-zero-blue",
+    "weight": "350-360g",
+    "shape": "Round",
+    "material": "Fiber",
+    "series": "SerieEssential"
+  },
+  {
+    "brand": "NOX",
+    "model": "X-Zero Red",
+    "price": "64,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/x-zero-red-pxzerore-8435778902799-8877501.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-essential/products/pala-x-zero-red",
+    "weight": "350-360g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieEssential"
+  }
+]
