@@ -1,1 +1,24 @@
-[{"brand":"NOX","model":"Equation SOFT Advanced","price":"124,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/equation-soft-advanced-pequsadv26-8435778902751-4653383.png","racketPage":"https://noxsport.com/en/collections/serie-advance/products/pala-equation-soft-advanced","weight":"360-375g","shape":"Round","material":"Fiber Glass","series":"SerieAdvance"},{"brand":"NOX","model":"Equation HARD Advanced","price":"124,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/equation-hard-advanced-pequhadv26-8435778902744-7143230.png","racketPage":"https://noxsport.com/en/collections/serie-advance/products/pala-equation-hard-advanced","weight":"355-365g","shape":"Round","material":"Fiber Glass","series":"SerieAdvance"}]
+[
+  {
+    "brand": "NOX",
+    "model": "Equation SOFT Advanced",
+    "price": "124,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/equation-soft-advanced-pequsadv26-8435778902751-4653383.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-advance/products/pala-equation-soft-advanced",
+    "weight": "360-375g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieAdvance"
+  },
+  {
+    "brand": "NOX",
+    "model": "Equation HARD Advanced",
+    "price": "124,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/equation-hard-advanced-pequhadv26-8435778902744-7143230.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-advance/products/pala-equation-hard-advanced",
+    "weight": "355-365g",
+    "shape": "Round",
+    "material": "Fiber Glass",
+    "series": "SerieAdvance"
+  }
+]

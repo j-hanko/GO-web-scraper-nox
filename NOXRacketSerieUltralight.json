@@ -1,1 +1,13 @@
-[{"brand":"NOX","model":"AT10 Genius Ultra Light by Agustín Tapia","price":"15,04 €64,95 €79,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-genius-ultra-light-by-agustin-tapia-patultlig25-8435778900634-228103.png","racketPage":"https://noxsport.com/en/collections/serie-ultralight/products/pala-at10-genius-ultralight-by-agustin-tapia","weight":"300-325g","shape":"","material":"","series":"SerieUltralight"}]
+[
+  {
+    "brand": "NOX",
+    "model": "AT10 Genius Ultra Light by Agustín Tapia",
+    "price": "15,04 €64,95 €79,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-genius-ultra-light-by-agustin-tapia-patultlig25-8435778900634-228103.png",
+    "racketPage": "https://noxsport.com/en/collections/serie-ultralight/products/pala-at10-genius-ultralight-by-agustin-tapia",
+    "weight": "300-325g",
+    "shape": "",
+    "material": "",
+    "series": "SerieUltralight"
+  }
+]

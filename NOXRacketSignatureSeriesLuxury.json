@@ -1,1 +1,112 @@
-[{"brand":"NOX","model":"AT10 Luxury Genius 12K Alum XTREM 2026 by Agustín Tapia","price":"389,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-luxury-genius-12k-alum-xtrem-2026-by-agustin-tapia-pat10genius1226-8435778902645-9466941.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia","weight":"360-375g","shape":"Drop/Tear","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"AT10 Luxury Genius 18K Alum 2026 by Agustín Tapia","price":"389,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-luxury-genius-18k-alum-2026-by-agustin-tapia-pat10genius1826-8435778902621-2175122.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-18k-alum-2026-by-agustin-tapia","weight":"360-375g","shape":"Drop/Tear","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"AT10 Luxury Genius Attack 12K Alum XTREM 2026 by Agustín Tapia","price":"359,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-luxury-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia-pat10geniusat1226-8435778902669-3810595.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia","weight":"360-375g","shape":"Diamond","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"AT10 Luxury Genius ATTACK 18K Alum 2026 by Agustín Tapia","price":"359,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-luxury-genius-attack-18k-alum-2026-by-agustin-tapia-pat10geniusat1826-8435778902638-4015240.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-attack-18k-alum-2026-by-agustin-tapia","weight":"360-375g","shape":"Diamond","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"AT10 Luxury Genius 12K Alum XTREM Lite 2026 by Agustín Tapia","price":"339,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/at10-luxury-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia-pat10genius12li26-8435778902652-8162701.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia","weight":"355-365g","shape":"Drop/Tear","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"EA10 Ventus Hybrid 12K XTREM by Edu Alonso","price":"339,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso-pea10ventush1226-8435778902676-9207640.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso","weight":"360-375g","shape":"Drop/Tear","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"EA10 Ventus Attack 12K XTREM by Edu Alonso","price":"339,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/ea10-ventus-attack-12k-xtrem-by-edu-alonso-pea10ventusa1226-8435778902683-7841159.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso","weight":"360-375g","shape":"Diamond","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"ML10 Ventus Control 3K by Miguel Lamperti","price":"339,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/ml10-ventus-control-3k-by-miguel-lamperti-pml10ventus326-8435778902690-1107820.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-ml10-ventus-3k-by-miguel-lamperti","weight":"360-375G","shape":"Round","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"VK10 Ventus Control 12K by Aranzazu Osoro","price":"299,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/vk10-ventus-control-12k-by-aranzazu-osoro-pvk10ventus1226-8435778902706-3301494.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-vk10-ventus-12k-by-aranzazu-osoro","weight":"360-375g","shape":"Round","material":"","series":"SignatureSeriesLuxury"},{"brand":"NOX","model":"Ventus Hybrid 12K Lite","price":"299,99 €","imageUrl":"https://noxsport.com/cdn/shop/files/ventus-hybrid-12k-lite-pventus12hl-8435778902713-2355266.png","racketPage":"https://noxsport.com/en/collections/signature-series-luxury/products/pala-ventus-12k-hybrid-lite","weight":"355-365g","shape":"Round","material":"","series":"SignatureSeriesLuxury"}]
+[
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius 12K Alum XTREM 2026 by Agustín Tapia",
+    "price": "389,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-12k-alum-xtrem-2026-by-agustin-tapia-pat10genius1226-8435778902645-9466941.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia",
+    "weight": "360-375g",
+    "shape": "Drop/Tear",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius 18K Alum 2026 by Agustín Tapia",
+    "price": "389,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-18k-alum-2026-by-agustin-tapia-pat10genius1826-8435778902621-2175122.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-18k-alum-2026-by-agustin-tapia",
+    "weight": "360-375g",
+    "shape": "Drop/Tear",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius Attack 12K Alum XTREM 2026 by Agustín Tapia",
+    "price": "359,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia-pat10geniusat1226-8435778902669-3810595.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-attack-12k-alum-xtrem-2026-by-agustin-tapia",
+    "weight": "360-375g",
+    "shape": "Diamond",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius ATTACK 18K Alum 2026 by Agustín Tapia",
+    "price": "359,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-attack-18k-alum-2026-by-agustin-tapia-pat10geniusat1826-8435778902638-4015240.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-attack-18k-alum-2026-by-agustin-tapia",
+    "weight": "360-375g",
+    "shape": "Diamond",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "AT10 Luxury Genius 12K Alum XTREM Lite 2026 by Agustín Tapia",
+    "price": "339,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/at10-luxury-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia-pat10genius12li26-8435778902652-8162701.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-at10-genius-12k-alum-xtrem-lite-2026-by-agustin-tapia",
+    "weight": "355-365g",
+    "shape": "Drop/Tear",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "EA10 Ventus Hybrid 12K XTREM by Edu Alonso",
+    "price": "339,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso-pea10ventush1226-8435778902676-9207640.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/ea10-ventus-hybrid-12k-xtrem-by-edu-alonso",
+    "weight": "360-375g",
+    "shape": "Drop/Tear",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "EA10 Ventus Attack 12K XTREM by Edu Alonso",
+    "price": "339,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/ea10-ventus-attack-12k-xtrem-by-edu-alonso-pea10ventusa1226-8435778902683-7841159.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/ea10-ventus-attack-12k-xtrem-by-edu-alonso",
+    "weight": "360-375g",
+    "shape": "Diamond",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "ML10 Ventus Control 3K by Miguel Lamperti",
+    "price": "339,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/ml10-ventus-control-3k-by-miguel-lamperti-pml10ventus326-8435778902690-1107820.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-ml10-ventus-3k-by-miguel-lamperti",
+    "weight": "360-375G",
+    "shape": "Round",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "VK10 Ventus Control 12K by Aranzazu Osoro",
+    "price": "299,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/vk10-ventus-control-12k-by-aranzazu-osoro-pvk10ventus1226-8435778902706-3301494.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-vk10-ventus-12k-by-aranzazu-osoro",
+    "weight": "360-375g",
+    "shape": "Round",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  },
+  {
+    "brand": "NOX",
+    "model": "Ventus Hybrid 12K Lite",
+    "price": "299,99 €",
+    "imageUrl": "https://noxsport.com/cdn/shop/files/ventus-hybrid-12k-lite-pventus12hl-8435778902713-2355266.png",
+    "racketPage": "https://noxsport.com/en/collections/signature-series-luxury/products/pala-ventus-12k-hybrid-lite",
+    "weight": "355-365g",
+    "shape": "Round",
+    "material": "",
+    "series": "SignatureSeriesLuxury"
+  }
+]
